@@ -15,8 +15,9 @@ jQuery
 OpenWeather API
 
 ## Credits
+https://github.com/spatel7793/weather-dashboard
+https://spatel7793.github.io/weather-dashboard/
 
-
+### Working code used to learn for this assignment
 Copyright (c) Mengmei Tu. All rights reserved.
-
 Licensed under the MIT license.
